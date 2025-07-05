@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI Enthusiast | 💻 Full-stack Explorer | 🇮🇳 From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Web3%20%7C%20Frontend%20%7C%20Cybersecurity%20%7C%20Django%20Lover;&center=true&width=500&height=25&color=F7DF1E&vCenter=true&size=18" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Web3%20%7C%20Frontend%20%7C%20Computer Networks%7C%20%20DSA%20%7C%20Django%20Lover;&center=true&width=500&height=25&color=F7DF1E&vCenter=true&size=18" />
 </p>
 
 ---
