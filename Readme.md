@@ -11,17 +11,19 @@
 ### 🔭 Current Projects:
 - 🤖 Building an **AI-powered Daily Symptom Tracker**
 - 📰 Developing an R Shiny **News Trend Analyzer**
-- 📬 Email Subscription Tracker integrated with Gmail & Supabase
+- 📬 Email Subscription Tracker integrated with Gmail
 
 ### 🌱 Currently Learning:
 - 🧠 Deep Learning • MLOps • System Design
-- 🛡️ Cybersecurity • Java • React + Next.js
+- 🛡️ Operating System • SQL • Data Engineering
 
 ---
 
 ### 📫 Reach Me:
 📩 [amoghshukla1616@gmail.com](mailto:amoghshukla1616@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/amogh-shukla-57b1a7247/) • [GitHub](https://github.com/AmoghShukla)
+🌐 [LinkedIn](https://www.linkedin.com/in/amogh-shukla-57b1a7247/) 
+💻 [GitHub](https://github.com/AmoghShukla)
+🐤 [Twitter](https://x.com/AmoghShukla10)
 
 > ⚡ Fun Fact: I do yoga, gym, and build – all before breakfast.  
 > 🧠 And yes, I *forget fast but learn faster* 😄
@@ -30,15 +32,16 @@
 
 ### 🧰 Languages & Tools:
 <p align="center">
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/external-network-it-support-flat-icons-inmotus-design.png" alt="Computer Networks" />
+  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Databricks_Logo.png" alt="Databricks" height="48"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
-  <img src="https://img.icons8.com/fluency/48/react.png"/>
-  <img src="https://img.icons8.com/fluency/48/node-js.png"/>
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/linux--v1.png"/>
 </p>
 
 ---
