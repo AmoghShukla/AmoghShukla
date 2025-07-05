@@ -23,7 +23,7 @@
 📩 [amoghshukla1616@gmail.com](mailto:amoghshukla1616@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/amogh-shukla-57b1a7247/) • [GitHub](https://github.com/AmoghShukla)
 
-> ⚡ Fun Fact: I do yoga, gym, and build apps – all before breakfast.  
+> ⚡ Fun Fact: I do yoga, gym, and build – all before breakfast.  
 > 🧠 And yes, I *forget fast but learn faster* 😄
 
 ---
@@ -36,7 +36,6 @@
   <img src="https://img.icons8.com/fluency/48/react.png"/>
   <img src="https://img.icons8.com/fluency/48/node-js.png"/>
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/linux--v1.png"/>
