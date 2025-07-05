@@ -35,7 +35,7 @@
 ### 🧰 Languages & Tools:
 <p align="center">
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" alt="Databricks" height="40" />
+  <img src="https://seeklogo.com/images/D/databricks-logo-9A3621B1B3-seeklogo.com.png" alt="Databricks" height="40"/>
   <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/fluency/48/network.png" alt="Computer Networks" />
   <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
