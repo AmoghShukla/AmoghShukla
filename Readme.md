@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI Enthusiast | 💻 Full-stack Explorer | 🇮🇳 From India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Web3%20%7C%20Frontend%20%7C%20Computer Networks%7C%20%20DSA%20%7C%20Django%20Lover;&center=true&width=500&height=25&color=F7DF1E&vCenter=true&size=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Web3+%7C+Frontend+%7C+Computer+Networks+%7C+DSA+%7C+Django+Lover" alt="Typing SVG" />
 </p>
 
 ---
