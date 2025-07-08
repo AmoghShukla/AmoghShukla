@@ -8,11 +8,6 @@
 
 ---
 
-### 🔭 Current Projects:
-- 🤖 Building an **AI-powered Daily Symptom Tracker**
-- 📰 Developing an R Shiny **News Trend Analyzer**
-- 📬 Email Subscription Tracker integrated with Gmail
-
 ### 🌱 Currently Learning:
 - 🧠 Deep Learning • MLOps • System Design
 - 🛡️ Operating System • SQL • Data Engineering
