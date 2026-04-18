@@ -16,9 +16,8 @@
 
 ### 📫 Reach Me:
 📩 [amoghshukla1616@gmail.com](mailto:amoghshukla1616@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/amogh-shukla-57b1a7247/) 
 
-💻 [GitHub](https://github.com/AmoghShukla)
+🌐 [LinkedIn](https://www.linkedin.com/in/amogh-shukla-57b1a7247/) 
 
 🐤 [Twitter](https://x.com/AmoghShukla10)
 
