@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmoghShukla&style=flat-square&color=blue" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=AmoghShukla&style=flat-square&color=blueviolet" alt="visitor badge"/>
 </p>
