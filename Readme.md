@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#facc15;">Amogh Shukla</span></h1>
-<h3 align="center">🚀 AI Enthusiast | 💻 Backend Explorer | 🇮🇳 From India</h3>
+<h3 align="center"> AI Enthusiast | Backend Explorer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=45&lines=ML+%7C+FastAPI+%7C+AI+%7C+Computer+Networks+%7C+SQLAlchemy+%7C+Python" alt="Typing SVG" />
