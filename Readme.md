@@ -3,7 +3,7 @@
 <h3 align="center"> AI Enthusiast | Backend Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=45&lines=ML+%7C+FastAPI+%7C+AI+%7C+GenAI+%7C+RAG+%7C+SQLAlchemy+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=45&lines=ML+%7C+JWT+%7C+FastAPI%7C+GenAI+%7C+RAG+%7C+SQLAlchemy+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
