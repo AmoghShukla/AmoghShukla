@@ -38,14 +38,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmoghShukla&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmoghShukla&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
 ### 🧠 Quote I Live By:
 > _“Strive for progress, not perfection.”_  
 > _“Your future is created by what you do today, not tomorrow.”_
