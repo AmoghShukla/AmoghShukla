@@ -21,9 +21,6 @@
 
 🐤 [Twitter](https://x.com/AmoghShukla10)
 
-> ⚡ Fun Fact: I do yoga, gym, and build – all before breakfast.  
-> 🧠 And yes, I *forget fast but learn faster* 😄
-
 ---
 
 ### 🧰 Languages & Tools:
