@@ -66,17 +66,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmoghShukla&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmoghShukla&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmoghShukla&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<br/>
-
 ## Quote I Live By
 
 > *"Strive for progress, not perfection."*
